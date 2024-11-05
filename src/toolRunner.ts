@@ -1,4 +1,4 @@
-import type OpenAI from 'openai'
+import type OpenAI from 'openai';
 import { generateImage } from './tools/generateImage'
 import { reddit } from './tools/reddit'
 import { dadJoke } from './tools/dadJoke'
