@@ -2,43 +2,11 @@
   "messages": [
     {
       "role": "user",
-      "content": "Hello"
+      "content": "Hello, My name is Nathanim"
     },
     {
       "role": "agent",
-      "content": "Hi, how can I help you?"
-    },
-    {
-      "role": "user",
-      "content": "I want to book a flight"
-    },
-    {
-      "role": "agent",
-      "content": "Sure, where would you like to go?"
-    },
-    {
-      "role": "user",
-      "content": "To Paris"
-    },
-    {
-      "role": "agent",
-      "content": "When would you like to go?"
-    },
-    {
-      "role": "user",
-      "content": "Next week"
-    },
-    {
-      "role": "agent",
-      "content": "I found a flight for you. Do you want to book it?"
-    },
-    {
-      "role": "user",
-      "content": "Yes"
-    },
-    {
-      "role": "agent",
-      "content": "Great! Your flight is booked."
+      "content": "Hi, how are you nathanim"
     }
   ]
 }
