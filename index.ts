@@ -19,4 +19,6 @@ const response = await runLM({
   messages,
 })
 
+await addMessages([{ role: 'assistant', content: response }])
+
 console.log(response)
